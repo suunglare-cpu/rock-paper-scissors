@@ -1,0 +1,12 @@
+# Local GUI download and extracted portable installation
+/WinBoard/
+/WinBoard-AA.zip
+
+# Locally generated distribution archives
+/dist/
+/Fairy-Stockfish-capture-targets.zip
+
+# Local compiler/runtime output
+/Fairy-Stockfish-master/.build-tmp/
+/Fairy-Stockfish-master/src/*.dll
+
